@@ -1,5 +1,5 @@
 line1 added from main
 line2 added from main
-line1 added from remote (github) main
+line1 added from remote (github) main --> change inserted from local main
 line2 added from remote main
 
