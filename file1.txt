@@ -1,4 +1,5 @@
 line1 added from main
 line2 added from main
-line added from remote (github) main
+line1 added from remote (github) main
+line2 added from remote main
 
