@@ -1,0 +1,15 @@
+line1 added from main
+line2 added from main
+line1 added from remote (github) main --> change inserted from local main
+line1 added from remote (github) main --> change inserted from remote main
+line2 added from remote main
+
+line3 from main
+line4 added from remote main
+line5 added from main
+
+line1 added from branch2
+resolved merge
+
+added line after del file1.txt in branch2
+another line
