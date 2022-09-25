@@ -10,3 +10,5 @@ line5 added from main
 
 line1 added from branch2
 resolved merge
+
+added line after del file1.txt in branch2
