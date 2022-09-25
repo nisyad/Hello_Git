@@ -13,3 +13,5 @@ resolved merge
 
 added line after del file1.txt in branch2
 another line
+
+line added from branch2
