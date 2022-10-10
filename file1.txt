@@ -20,3 +20,4 @@ line added from branch2
 10-10-2022
 line added from main
 another line added from main + some more edits
+line added from branch 2
